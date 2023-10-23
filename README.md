@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I don't use Linux!
 
+```python
+              print("Hello, developer.I hope you haven't encountered any errors.")
+```
+```java
+              System.out.println("Check for semicolon in case of any error!");
+```
+
