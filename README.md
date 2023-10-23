@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - sauravsahil797@gmail.com
 - https://www.linkedin.com/in/singhxsaurav/
 <!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: I am not a developer!
+- ⚡ Fun fact: I don't use Linux!
 
